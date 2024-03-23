@@ -1,0 +1,3 @@
+/home/ohess/Documents/Simple-BST/cmake-build-debug/CMakeFiles/Simple_BST.dir
+/home/ohess/Documents/Simple-BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ohess/Documents/Simple-BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
